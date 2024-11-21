@@ -1,6 +1,6 @@
 function Explore() {
   return (
-    <section className="px-36 py-16 flex gap-32">
+    <section className="px-36 py-32 flex gap-32">
       <img src="/images/explore.png" alt="explore" className="w-[45%]" />
       <div>
         <h3 className="font-semibold text-5xl text-[#2B2B3D]">
